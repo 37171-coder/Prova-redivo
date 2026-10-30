@@ -4,9 +4,9 @@
 
 **Integrantes:**
 
-1.
-2.
-3.
+1.PEDRO
+2.MATHEUS
+3.CAUA
 
 ## Como rodar o projeto
 
